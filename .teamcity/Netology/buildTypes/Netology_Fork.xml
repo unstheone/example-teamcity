@@ -3,6 +3,9 @@
   <name>fork</name>
   <description />
   <settings>
+    <options>
+      <option name="artifactRules" value="target/plaindoll-0.0.3.jar&#xA;target/original-plaindoll-0.0.3.jar" />
+    </options>
     <parameters />
     <build-runners>
       <runner id="Maven2" name="" type="Maven2">
